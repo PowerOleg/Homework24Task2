@@ -1,2 +1,4 @@
 rootProject.name = 'Homework24Task2'
-
+include 'db'
+include 'service'
+include 'api'
